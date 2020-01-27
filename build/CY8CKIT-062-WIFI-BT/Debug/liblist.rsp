@@ -1,0 +1,2 @@
+./libs/capsense/COMPONENT_SOFTFP/TOOLCHAIN_GCC_ARM/libcy_capsense.a
+./libs/emwin/GUI/COMPONENT_SOFTFP/COMPONENT_EMWIN_NOSNTS/TOOLCHAIN_GCC_ARM/libemWin_nosnts_gcc.a
